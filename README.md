@@ -6,7 +6,7 @@
 
 ## 🌐 **_Live Demo_**
 
-> 
+> 🚧 [NayayNow_Landing_Page](https://nayaynow-landing-page.netlify.app/)
 
 ---
 
